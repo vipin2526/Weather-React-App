@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+  background: url('../public/final.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+  height: 100vh;
+
+}
+
+.outerBox {
+  background: #ffffff5c;
+  height: 80vh;
+  width: 80vw;
+  margin: auto;
+  align-self: center;
+}
+.outerBox>h1{
+  padding-top: 15px;
+}
+input {
+  height: 2rem;
+  width: 330px;
+  margin: auto;
+  margin-top: 20px;
+  border-radius: 20px;
+  border: 2px solid gray;
+  font-size: larger;
+  padding-left: 20px;
+}
+
+button {
+  height: 2.26rem;
+  margin-left: 10px;
+  font-size: larger;
+}
+
+.temprature {
+  display: flex;
+  justify-content: space-around;
+  font-size: 2rem;
+  background-color: rgb(247 206 206);
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.other_information {
+  display: flex;
+  justify-content: space-around;
+  text-align: initial;
+
+}
+
+h3 {
+  font-weight: 500;
+}
+
+.loding{
+  font-size: 100px;
+  position: absolute;
+  top:30vh;
+  left:40%;
+}
