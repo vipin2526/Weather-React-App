@@ -16,7 +16,7 @@ To run the Weather React App locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/xmartcoder/Weather-React-App.git
+   git clone https://github.com/vipin2526/Weather-React-App.git
    ```
 
 2. Navigate to the project directory:
@@ -67,4 +67,4 @@ The Weather React App is open-source software released under the [MIT license](L
 
 ### Credits
 
-This project was created by [Vipin Kushwaha](https://github.com/VipinKushwaha2526). Feel free to customize this README to provide more information specific to your project. Include any relevant sections, such as deployment instructions, testing guidelines, or additional project screenshots, as needed.
+This project was created by [Vipin Kushwaha](https://github.com/Vipin2526). Feel free to customize this README to provide more information specific to your project. Include any relevant sections, such as deployment instructions, testing guidelines, or additional project screenshots, as needed.
